@@ -22,9 +22,11 @@ body {
   height: calc(300px + var(--i));
   background-color: var(--clr);
   border-radius: 50%;
-  transform-origin: 100px;
+  transform-origin: calc(120px + var(--i));
   animation: animate 5s linear infinite;
   animation-duration: calc(var(--d));
+  mix-blend-mode: plus-lighter;
+  filter: blur(30px);
 }
 
 .energy span:nth-child(even) {
