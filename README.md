@@ -1,7 +1,5 @@
 # CSS-Energy-Ball
 
-Link https://codepen.io/AlexGolovanov/pen/abqXjOw
-
 ### Use Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,9 +7,9 @@ Link https://codepen.io/AlexGolovanov/pen/abqXjOw
 
 ---
 
-[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/VwQNjaM)
+[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/abqXjOw)
 
-![image-ring.gif](readme/ring.gif)
+![image-ball.gif](readme/ball.gif)
 
 ## Info
 
