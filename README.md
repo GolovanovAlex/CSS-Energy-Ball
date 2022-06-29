@@ -1,4 +1,4 @@
-# CSS-Energy-Ball
+# CSS Energy Ball
 
 ### Use Skills
 
