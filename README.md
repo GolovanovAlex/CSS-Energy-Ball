@@ -15,7 +15,7 @@
 
 Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).  
 
-Обучение и отработка работы с **CSS**
+Обучение и отработка работы с **CSS** и **animation**.
 
 ---
 
